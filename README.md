@@ -1,6 +1,5 @@
 # Payroll Management System
 
-## Overview
 The Payroll Management System is a console-based application designed to manage employee records, including their personal details, work experience, and payroll information. This system allows administrators to perform various operations such as adding new records, editing existing records, deleting records, searching for specific records, and generating employee payslips.
 
 ## Features
